@@ -1,0 +1,27 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "What is React's virtual DOM?",
+      "options": [
+        { "id": "a", "text": "A direct copy of the real DOM" },
+        { "id": "b", "text": "A lightweight copy of the real DOM" },
+        { "id": "c", "text": "A programming language" },
+        { "id": "d", "text": "A browser extension" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": 2,
+      "text": "Which hook is used for side effects in React?",
+      "options": [
+        { "id": "a", "text": "useState" },
+        { "id": "b", "text": "useReducer" },
+        { "id": "c", "text": "useEffect" },
+        { "id": "d", "text": "useContext" }
+      ],
+      "correctAnswer": "c"
+    }
+  ],
+  "timeLimit": 300
+}
